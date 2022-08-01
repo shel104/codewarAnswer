@@ -13,4 +13,7 @@ public class Commentingcode {
   }
 }
 
-
+//what is  the name of cpp?
+//C++ is a high-level language that is designed to be used for developing software systems.
+//what is cookie-based coding?
+//Cookie-based coding is a style of programming in which the programmer uses a cookie to store the state of the program.
